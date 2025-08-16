@@ -1,0 +1,53 @@
+##############################################################
+
+# Changelog
+# Rhythm - Multipurpose One/Multi Page Template
+# Full Changelog - http://themeforest.net/item/rhythm-multipurpose-onemulti-page-template/10140354#item-description__changelog
+
+##############################################################
+
+v. 1.6.1 – 21 December 2020
+
+- bug with background Youtube video on macOS Big Sur was fixed:
+--- file /js/jquery.mb.YTPlayer.js was updated
+
+##############################################################
+
+v. 1.6 – 1 July 2020
+
+- bug with parallax background on iPad Pro was fixed:
+--- file /css/style-responsive.css was updated
+--- file /js/all.js (line 448) was updated
+
+##############################################################
+
+v. 1.5.10 – 30 June 2020
+
+- third-party plugins were updated:
+--- file /js/SmoothScroll.js was updated
+--- file /css/bootstrap.min.css was updated
+--- file /js/bootstrap.min.js was updated
+--- file /js/jquery-3.5.1.min.js was added
+--- file /js/jquery-migrate-1.4.1.min.js was added
+--- file /js/jquery-1.11.2.min.js was removed
+--- all HTML files was updated (scripts including)
+
+- bug with revolution slider was fixed:
+--- file /js/rev-slider.js was updated
+
+- accessibility of text rotator was improved:
+--- file /js/jquery.simple-text-rotator.min.js was updated
+
+##############################################################
+
+v. 1.5.9 – 11 September 2018
+
+- Google Maps Api was replaced with Google Maps embed (details - https://forums.envato.com/t/important-changes-to-the-google-maps-platform/173357):
+--- file /css/style.css was updated ("Google Maps" section)
+--- file /css/style-responsive.css was updated
+--- file /js/all.js was updated ("Google Maps" section)
+--- all HTML files were updated (removed including of Google Maps Api and file /js/gmap3.min.js)
+--- HTML code of Google Maps sections was updated
+--- file /js/gmap3.min.js was removed
+
+
